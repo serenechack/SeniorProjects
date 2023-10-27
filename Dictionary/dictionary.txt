@@ -1,0 +1,32 @@
+A dictionary of gestures and what they correspond to
+
+1. Neutral position:
+    Gesture: Hands by the side
+    Corresponding action: Nothing happens
+2. Zoom in
+    Gesture: thumb and index finger move close and touch
+    Corresponding action: Image zooms in until the fingers touch
+3. Zoom out:
+    Getsure: thumb and index finger touch and then move out
+    Corresponding action: Image zooms in until the fingers top moving
+4. Pan up:
+    Gesture: hand moves up
+    Corresponding action: Image pans up until the hand returns to the neutral position
+5. Pan down:
+    Gesture: hand moves down
+    Corresponding action: Image pans down until the hand returns to the neutral position
+6: Move to the left:
+    Gesture: hand moves from the right to the left
+    Corresponding action: Image shift to the left until the hand stops moving
+7: Move to the right:
+    Gesture: hand moves from the left to the right
+    Corresponding action: Image shift to the right until the hand stops moving
+8: Clockwise rotation:
+    Gesture: hands move clockwise
+    Corresponding action: Image turns clockwise until the hands return to the neutral position
+9: Counterclockwise rotation:
+    Gesture:hands move Counterclockwise
+    Corresponding action: Image turns counterclockwise until the hands return to the neutral position
+10: Return to original
+    Gesture: Palms facing the screen
+    Corresponding action: Returns to original display of image
